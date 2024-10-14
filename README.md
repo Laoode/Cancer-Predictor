@@ -34,3 +34,5 @@ To start the app, simply run the following command:
 streamlit run app/main.py
 ```
 <p>After running the command, Streamlit will automatically launch the app in your default web browser.</p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
