@@ -1,5 +1,7 @@
 <h1 align="center">🦠 The Breast Cancer Diagnosis Predictor App 🦠</h1>
-
+<div align="center">
+  <img src="https://github.com/Laoode/Cancer-Predictor/blob/main/Images/medical-tech.gif" alt="logo">
+</div>
 <h2 align="left">🔽 Overview</h2>
 <p>Breast cancer is the most common cancer among women such that the existence of a precise and reliable system for the diagnosis of benign or malignant tumors is critical. Nowadays, using machine learning techniques, detection and early diagnosis of this cancer can be done with greater accuracy. The method used in this project is logistic regression, which is a supervised learning method. To select or delete a feature, feature weighting is used. In logistic regression, the Sigmoid function is used for classification, which ensures that the output is in the range [0–1]. Simulation results show that the proposed method reaches accuracy 97.3% of our model</p>
 <p>The Breast Cancer Diagnosis app is a machine learning-powered tool designed to assist medical professionals in diagnosing breast cancer. Using a set of measurements, the app predicts whether a breast mass is benign or malignant. It provides a visual representation of the input data using a radar chart and displays the predicted diagnosis and probability of being benign or malignant. The app can be used by manually inputting the measurements or by connecting it to a cytology lab to obtain the data directly from a machine. The connection to the laboratory machine is not a part of the app itself.</p>
